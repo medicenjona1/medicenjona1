@@ -1,4 +1,4 @@
  
 # 🔭 learning Java Spigot/Paper/FabricMC
-% 🌱 Python
+# 🌱 Python
 # 🤔 Html/CSS
