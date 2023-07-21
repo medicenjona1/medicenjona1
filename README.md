@@ -77,6 +77,11 @@ class Program {
 
 [![medicenjona1](https://lanyard.cnrad.dev/api/713921751335043201)](https://discord.com/users/713921751335043201)
 
+## More
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medicenjona1)](https://github.com/anuraghazra/github-readme-stats) 
+![medicenjona1's GitHub stats](https://github-readme-stats.vercel.app/api?username=medicenjona1&show_icons=true&theme=dark)
+[![medicenjona1's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=medicenjona1)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
