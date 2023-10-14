@@ -3,9 +3,10 @@ Hi, my name is Jonathan, better known as medicenjona1 or jona. I am a person who
 
 ## 🛠 Skills
 
-```zsh
+```
 jona@github:~$ cat SKILLS.md
-
+```
+```Java
 Java 
  
  public class Greetings {
@@ -13,27 +14,32 @@ Java
         System.out.println("Hi, I'm medicenjona1");
     }
 }
+```
 
-
+```Javascript
  JavaScript 
  console.log("Hi, I'm medicenjona1");
+```
 
-
-
+```Typescript
  TypeScript
  console.log("Hi, I'm medicenjona1");
+```
 
-
-
+```Rust
   Rust
   
    fn main() {
     println!("Hi, I'm medicenjona1");
 }
+```
 
+```Python
 Python
 print("Hi, I'm medicenjona1")
+```
 
+```Go
 Go
 package main
 
@@ -42,9 +48,10 @@ import "fmt"
 func main() {
     fmt.Println("Hi, I'm medicenjona1")
 }
+```
 
 
-
+```C++
 C++
 #include <iostream>
 
@@ -52,9 +59,11 @@ int main() {
     std::cout << "Hi, I'm medicenjona1" << std::endl;
     return 0;
 }
+```
 
-
+```C#
 C#
+
 using System;
 
 class Program {
@@ -62,6 +71,24 @@ class Program {
         Console.WriteLine("Hi, I'm medicenjona1");
     }
 }
+
+
+
+
+```
+
+```C#
+ANAMODLANMDOLADKZ XLANDAODIJAMD
+
+ASJAJDAKLDA;
+
+AAPPODA;DA; {
+    ASDFTRASS ASDADAPUSSYAS ADADADADAAPOCOSITILINn(SADADA[] adad) {
+        ADADALDAKDA.LALO("Hi, I'm medicenjona1");
+    }
+}
+
+
 
 
 ```
