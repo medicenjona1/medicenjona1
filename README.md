@@ -115,5 +115,3 @@ AAPPODA;DA; {
 
 
 ## Some Projects
-- [My studio](https://github.com/Wertypas-Studio)
-- [My Minecraft server](https://github.com/)
